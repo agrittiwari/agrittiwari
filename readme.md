@@ -6,10 +6,10 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=agrittiwari&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@agrit%20tiwari-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@agrittiwari)](https://medium.com/@agrittiwari)
   
-I develop software, build technical communities, create content and love meeting new people!
+I develop software, build technical communities,  and love meeting new people!
 
 
-[![Agrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agrittiwari&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/agrittiwari/github-readme-stats)
+[![Agrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agrittiwari&hide=issues&count_private=true&show_icons=true&theme=blueberry)](https://github.com/agrittiwari/github-readme-stats)
 
 
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/agrittiwari) and add to my knowledge! 
