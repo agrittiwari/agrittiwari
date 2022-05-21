@@ -21,6 +21,8 @@
 
  [Read more here..](https://tech-blog.agrittiwari.com) 🏛️
 * Tech stack: It depends on the need of functionality you want to build. I am a builder, not attached to particular stack in development.
+* 🏀⛹️‍♂️
+* 🇮🇳
  > To learn something, make it painful to not learn. - [@shl](https://www.twitter.com/shl)
 
 
