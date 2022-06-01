@@ -1,4 +1,5 @@
-## Hey! I'm Agrit Tiwari. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+## Hey! I'm Agrit Tiwari.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
 [![Linkedin: Agrit Tiwari](https://img.shields.io/badge/-Agrit%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agrittiwari/)](https://www.linkedin.com/in/agrittiwari/)
 
