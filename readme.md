@@ -7,9 +7,7 @@ Code Clean!
   
 
 * # Blogs:
-|Explaining Web Rendering with NextJS | [Link](https://tech-blog.agrittiwari.com/web-rendering) |
-|Accessibility and the React Ecosystem | [Link](https://tech-blog.agrittiwari.com/accessibility-and-the-react-ecosystem) |
-|NextJS and MongoDB Application | [Link](https://tech-blog.agrittiwari.com/nextjs-and-mongodb-application-v1)|
+[https://tech-blog.agrittiwari.com](https://tech-blog.agrittiwari.com)
 
 
 
